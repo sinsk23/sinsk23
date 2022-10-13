@@ -2,7 +2,8 @@
 - 👀 웹, 웹앱, 모바일 앱 게임 에 관심이 있습니다.
 - 🌱 현 Node.js를 중점적으로 React, Nest.js, TS 공부 중 입니다.
 
-![sinsk23's github stats](https://github-readme-stats.vercel.app/api?username=sinsk23&show_icons=true&theme=great-gatsby)
+![sinsk23's github stats](https://github-readme-stats.vercel.app/api?username=sinsk23&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinsk23&layout=compact&theme=tokyonight)
 
 
 <!---
