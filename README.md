@@ -1,6 +1,6 @@
-- 👋 안녕하세요 백엔드 개발자 ~ 풀 스택 개발자 가 될 신성규 입니다.  
+- 👋 안녕하세요 백엔드 개발자 -> 풀 스택 개발자가 될 신성규 입니다.  
 - 👀 웹, 웹앱, 모바일 앱 게임 에 관심이 있습니다.
-- 🌱 현 Node.js를 중점적으로 React, Nest.js, TS 공부 중 입니다.
+- 🌱 현 Node.js를 중심으로 React, Nest.js, TS 공부 중 입니다.
 </br>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
