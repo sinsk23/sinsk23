@@ -14,11 +14,11 @@
 </div>
 </br>
 
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinsk23&layout=compact&theme=tokyonight)
 
 ![sinsk23's github stats](https://github-readme-stats.vercel.app/api?username=sinsk23&show_icons=true&theme=tokyonight)
-</div>
+
 
 
 <!---
