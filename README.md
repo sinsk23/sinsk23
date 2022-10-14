@@ -10,7 +10,7 @@
 
 ------------
 
-<img src="https://img.shields.io/badge/Visual studio code-7952B3?style=for-the-badge&logo=Visual studio code&logoColor=white" width="200" height="400"/>
+<img src="https://img.shields.io/badge/Visual studio code-7952B3?style=for-the-badge&logo=Visual studio code&logoColor=white" width="20" height="10"/>
 
 ### 🌟Skills
 
