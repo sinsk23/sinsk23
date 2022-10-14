@@ -10,13 +10,13 @@
 
 ------------
 
-<img src="https://img.shields.io/badge/Visual studio code-7952B3?style=for-the-badge&logo=Visual studio code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual studio code-7952B3?style=for-the-badge&logo=Visual studio code&logoColor=white width="200" height="400"">
 
 ### 🌟Skills
 
 ------------
 
-- Language : ###### <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+- Language : <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
     
 - Backend : <img src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src= "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
   
