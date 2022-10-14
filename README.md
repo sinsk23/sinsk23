@@ -39,7 +39,7 @@
 - Design : <img src="https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=Figma&logoColor=white">
 - Language : <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  
 - Backend : <img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-- Frontend : <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+- Frontend : <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinsk23&layout=compact&theme=tokyonight)
