@@ -2,19 +2,47 @@
 - 👀 웹, 웹앱, 모바일 앱 게임 에 관심이 있습니다.
 - 🌱 현 Node.js를 중심으로 React, Nest.js, TS 공부 중 입니다.
 </br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
- </br>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual studio code-7952B3?style=for-the-badge&logo=Visual studio code&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-F80000?style=for-the-badge&logo=Jenkins&logoColor=white">
+# IDE
+-------
+- <img src="https://img.shields.io/badge/Visual studio code-7952B3?style=for-the-badge&logo=Visual studio code&logoColor=white">
+</br>
+
+# Skills
+-------
+- Language :
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+  </br>
+Frameworks & Library  
+- Backend : 
+  <img src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src= "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
   
-</div>
+ </br>
+ 
+- CI/CD :
+  <img src="https://img.shields.io/badge/Jenkins-F80000?style=for-the-badge&logo=Jenkins&logoColor=white">
+- DB : 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ </br>
+- DevOps : 
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+</br>
+- Social :
+ <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+# Skill of Interest
+-------
+- CI/CD : <img src="https://img.shields.io/badge/github action-181717?style=for-the-badge&logo=github action&logoColor=white">
+- Design : <img src="https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=Figma&logoColor=white">
+- Language : <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</br>
+Frameworks & Library  
+- Backend : <img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+- Frontend : <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  
+
 </br>
 
 
