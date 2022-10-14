@@ -1,7 +1,7 @@
-- 👋 안녕하세요 백엔드 개발자 -> 풀 스택 개발자가 될 신성규 입니다.  
-- 👀 웹, 웹앱, 모바일 앱 게임 에 관심이 있습니다.
-- 📚 현 Node.js를 중심으로 React, Nest.js, TS 공부 중 입니다.
-- 👨 Contact : sinsk23@naver.com
+👋 안녕하세요 백엔드 개발자 -> 풀 스택 개발자가 될 신성규 입니다.  
+👀 웹, 웹앱, 모바일 앱 게임 에 관심이 있습니다.
+📚 현 Node.js를 중심으로 React, Nest.js, TS 공부 중 입니다.
+👨 Contact : sinsk23@naver.com
 
 ### 👩‍💻IDE
 
